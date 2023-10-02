@@ -1,0 +1,29 @@
+Username,Last Name,First Name,Email,PS1 Points Grade <Numeric MaxPoints:10 Weight:10 Category:Problem Solving CategoryWeight:20>,PS2 Points Grade <Numeric MaxPoints:10 Weight:10 Category:Problem Solving CategoryWeight:20>,PS3 Points Grade <Numeric MaxPoints:10 Weight:10 Category:Problem Solving CategoryWeight:20>,PS4 Points Grade <Numeric MaxPoints:10 Weight:10 Category:Problem Solving CategoryWeight:20>,PS5 Points Grade <Numeric MaxPoints:10 Weight:10 Category:Problem Solving CategoryWeight:20>,PS6 Points Grade <Numeric MaxPoints:10 Weight:10 Category:Problem Solving CategoryWeight:20>,PS7 Points Grade <Numeric MaxPoints:10 Weight:10 Category:Problem Solving CategoryWeight:20>,PS8 Points Grade <Numeric MaxPoints:10 Weight:10 Category:Problem Solving CategoryWeight:20>,PS9 Points Grade <Numeric MaxPoints:10 Weight:10 Category:Problem Solving CategoryWeight:20>,PS10 Points Grade <Numeric MaxPoints:10 Weight:10 Category:Problem Solving CategoryWeight:20>,Problem Solving Subtotal Numerator,Problem Solving Subtotal Denominator,PA1 Points Grade <Numeric MaxPoints:50 Weight:25 Category:Programming Assignments CategoryWeight:40>,PA2 Points Grade <Numeric MaxPoints:50 Weight:25 Category:Programming Assignments CategoryWeight:40>,PA3 Points Grade <Numeric MaxPoints:50 Weight:25 Category:Programming Assignments CategoryWeight:40>,PA4 Points Grade <Numeric MaxPoints:50 Weight:25 Category:Programming Assignments CategoryWeight:40>,Programming Assignments Subtotal Numerator,Programming Assignments Subtotal Denominator,Proposal Report Points Grade <Numeric MaxPoints:100 Weight:20 Category:Course Project CategoryWeight:40>,Proposal Presentation Points Grade <Numeric MaxPoints:100 Weight:20 Category:Course Project CategoryWeight:40>,Final Code and Report Points Grade <Numeric MaxPoints:100 Weight:20 Category:Course Project CategoryWeight:40>,Final Presentation Points Grade <Numeric MaxPoints:100 Weight:20 Category:Course Project CategoryWeight:40>,Final Code Points Grade <Numeric MaxPoints:100 Weight:20 Category:Course Project CategoryWeight:40>,Course Project Subtotal Numerator,Course Project Subtotal Denominator,PSS00 Points Grade <Numeric MaxPoints:10 Weight:10>,Calculated Final Grade Numerator,Calculated Final Grade Denominator,Adjusted Final Grade Numerator,Adjusted Final Grade Denominator,End-of-Line Indicator
+#ac2434,Chiplunkar,Atharva Manoj,ac2434@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#ak6913,Kherde,Ashwin Sharad,ak6913@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#aln4739,Nguyen,Anh,aln4739@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#am9559,Mulky,Anikhet,am9559@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#as1896,Stewart,Athina,as1896@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#ay1656,Yaber Llanos,Alejandro,ay1656@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#bsg8294,Giacalone,Ben,bsg8294@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#btn6364,Nguyen,Bao,btn6364@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#can1767,Nau,Calvin,can1767@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#fva6937,Voltolini De Azambuja,Fernando,fva6937@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#gnk1165,Krot,Gerrit,gnk1165@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#hl3352,Lin,Huawei,hl3352@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#jp5811,Peng,Jiakai,jp5811@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#jpd2690,Doyle,Jack,jpd2690@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#km1139,Mahesh,Khushi,km1139@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#kn1894,Nagabhushan,Kruthi,kn1894@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#ks2648,Shetty,Kaustubh Narendranath,ks2648@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#mb2856,Bayat,Mohammad,mb2856@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#mhm3244,Mellor,Marie,mhm3244@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#mk1651,Kocharekar,Maitreya,mk1651@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#pg3328,Gontla,Pradeep Kumar,pg3328@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#qnd5128,Duong,Quynh,qnd5128@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#rs7566,Shi,Sicy,rs7566@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#sd5223,Dey,Souvik,sd5223@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#ss7696,Sharma,Snehil,ss7696@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#ta5900,Adhikary,Tirna,ta5900@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#xh1165,Hu,Xinyu,xh1165@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,10,,,#
+#xl9694,Liu,Emily,xl9694@rit.edu,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,10,,,#
