@@ -2,6 +2,7 @@ import cv2 as cv
 import numpy as np
 from helpers import non_maximal_suppression
 import matplotlib.pyplot as plt
+import cProfile,pstats
 
 def main():
     scene = cv.imread("mario.jpg")
@@ -23,8 +24,8 @@ def main():
     # cv.waitKey(0)
     # cv.destroyAllWindows()
     # print("Plotting the histogram")
-    plt.hist(res.ravel())
-    plt.show()
+    # plt.hist(res.ravel())
+    # plt.show()
     print("Setting the histogram")
 
     threshold = 200
@@ -60,9 +61,9 @@ def main():
         image = cv.rectangle(scene, start_point, end_point, color, thickness)
      
 
-    cv.imshow("image",image)
-    cv.waitKey(0)
-    cv.destroyAllWindows()
+    # cv.imshow("image",image)
+    # cv.waitKey(0)
+    # cv.destroyAllWindows()
     cv.imwrite("mario-matches.jpg",image)
 
 
@@ -70,4 +71,10 @@ def main():
     # YOUR CODE HERE (follow steps in the assignment)
 
 if __name__ == "__main__":
-    main()
+    # with cProfile.Profile() as profile:
+    #     main()
+
+    # result=pstats.Stats(profile)
+    # result.sort_stats(pstats.SortKey.TIME)
+    # result.print_stats()
+    main()    
