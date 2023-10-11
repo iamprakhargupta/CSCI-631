@@ -8,8 +8,6 @@ import argparse
 # THIS FILE IS INTENTIONALLY BLANK – SEE INTSRUCTIONS IN MD FILE. IMPORTS AT THE TOP ARE JUST TO HELP YOU GET STARTED.
 # FOR REFERENCE, THE "ANSWER KEY" WAS ABOUT 40 LINES OF CODE INCLUDING IMPORTS, WHITESPACE, ARGPARSE STUFF, ETC.
 
-# def read_filter(file):
-
 
 def load_filter(filter_path):
     """Load a filter from a text file into a 2D numpy array."""
